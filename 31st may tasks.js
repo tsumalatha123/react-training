@@ -63,4 +63,5 @@ function getPlayersByTeamName(teamName) {
     let players = playersList.filter((e) => e.team == teamName)
     return players
 }
+
 console.log(getPlayersByTeamName('rcb'));
