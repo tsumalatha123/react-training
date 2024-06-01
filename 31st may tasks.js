@@ -39,13 +39,13 @@ console.log(getTop3Scorer());
 
 let teamWinsData = {
     teams: [{
-        name: 'kohli',
+        name: 'csk',
         wins: 4
     }, {
-        name: 'dhoni',
+        name: 'rcb',
         wins: 10
     }, {
-        name: 'abhi',
+        name: 'srh',
         wins: 8
     }]
 };
